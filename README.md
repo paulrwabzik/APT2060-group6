@@ -1,7 +1,7 @@
 # APT2060-group6
 The group assignment on Algorithm Design
 ## Group members
-Paul Rwabajungu-676390  
+Paul Rwabajungu-676390-2(iii)  
 Stephani Wanjiru-674845  
 Saloni Lemoonga-675867  
 Sidney Wambua-677000  
