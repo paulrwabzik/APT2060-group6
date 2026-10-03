@@ -1,0 +1,12 @@
+START
+  READ first number
+  IF no number was entered THEN
+      DISPLAY "No numbers entered"; STOP
+  SET largest = first number
+  WHILE the user enters another number x
+      IF x > largest THEN
+          SET largest = x
+      END IF
+  END WHILE
+  DISPLAY largest
+END
